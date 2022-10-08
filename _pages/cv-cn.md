@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "CV-CN"
 permalink: /cv-cn/
 author_profile: true
 redirect_from:
