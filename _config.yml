@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xiangang Li / Dr."
+title                    : "Xiangang Li / PhD"
 title_separator          : "-"
 name                     : &name "Xiangang Li"
 description              : &description "personal description"
 url                      : https://xiangangli.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "xiangangli/xiangangli.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Xiangang Li"
   avatar           : "profile.png"
-  bio              : "Keep Learning"
+  bio              : "graduated from Peking University"
   location         : "Beijing, China"
   employer         :
   pubmed           :
