@@ -2,12 +2,11 @@
 main:
 #  - title: "CV-EN"
 #    url: /cv/
+  - title: "Publications"
+    url: /publications/
 
   - title: "CV-CN"
     url: /cv-cn/
-
-  - title: "Publications"
-    url: /publications/
     
 #  - title: "Guide"
 #    url: /markdown/
