@@ -45,3 +45,4 @@ redirect_from:
   * 2014年，对基于序列建模的语音识别展开了深入研究，得到了业界的认可。论文获得了ISCSLP 2014 Best Student Paper Award。
 
 论文发表（截止目前Google scholar citation 4400+）[Google scholar](https://scholar.google.com/citations?user=80YNQwMAAAAJ&hl=zh-CN)
+======
