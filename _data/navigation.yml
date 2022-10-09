@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "CV-EN"
-    url: /cv/
+#  - title: "CV-EN"
+#    url: /cv/
 
   - title: "CV-CN"
     url: /cv-cn/
