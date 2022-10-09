@@ -1,9 +1,0 @@
----
-title: "Gigaspeech: An evolving, multi-domain asr corpus with 10,000 hours of transcribed audio"
-permalink: /publication/paper-3
-excerpt: 'G. Chen, S. Chai, G. Wang, J. Du, W. Zhang, C. Weng, D. Su, D. Povey, J. Trmal, J. Zhang, M. Jin, S. Khudanpur, S. Watanabe, S. Zhao, W. Zou, <strong>X. Li</strong>, X. Yao, Y. Wang, Y. Wang, Z. You, Z. Yan, &quot;Gigaspeech: An evolving, multi-domain asr corpus with 10,000 hours of transcribed audio.&quot; <i>arXiv preprint arXiv:2106.06909.</i>.'
-paperurl: 'https://arxiv.org/pdf/2106.06909.pdf'
----
-G. Chen, S. Chai, G. Wang, J. Du, W. Zhang, C. Weng, D. Su, D. Povey, J. Trmal, J. Zhang, M. Jin, S. Khudanpur, S. Watanabe, S. Zhao, W. Zou, <strong>X. Li</strong>, X. Yao, Y. Wang, Y. Wang, Z. You, Z. Yan, "Gigaspeech: An evolving, multi-domain asr corpus with 10,000 hours of transcribed audio." <i>arXiv preprint arXiv:2106.06909</i>.
-
-[Download paper here](https://arxiv.org/pdf/2106.06909.pdf)
