@@ -44,8 +44,4 @@ redirect_from:
   * 2013年，作为北京大学语音团队研究负责人，带领 团队参加Blizzard Challenge国际语音合成竞赛（语音合成领域中的最权威比赛），在竞赛的各个指标中都遥遥领先其他团队（其中包含科大讯飞等）。
   * 2014年，对基于序列建模的语音识别展开了深入研究，得到了业界的认可。论文获得了ISCSLP 2014 Best Student Paper Award。
 
-部分发表论文（截止目前Google scholar citation 4400+）[Google scholar](https://scholar.google.com/citations?user=80YNQwMAAAAJ&hl=zh-CN)
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+论文发表（截止目前Google scholar citation 4400+）[Google scholar](https://scholar.google.com/citations?user=80YNQwMAAAAJ&hl=zh-CN)
