@@ -1,9 +1,11 @@
 ---
 layout: archive
-title: "Details in [Google scholar](https://scholar.google.com/citations?user=80YNQwMAAAAJ&hl=zh-CN), selected publications as follows:"
+title: "Selected Publications"
 permalink: /publications/
 author_profile: true
 ---
+
+### Details in [Google scholar](https://scholar.google.com/citations?user=80YNQwMAAAAJ&hl=zh-CN)
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
