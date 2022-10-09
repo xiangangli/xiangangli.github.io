@@ -6,8 +6,8 @@ main:
   - title: "CV-CN"
     url: /cv-cn/
 
-#  - title: "Publications"
-#    url: /publications/
+  - title: "Publications"
+    url: /publications/
     
 #  - title: "Guide"
 #    url: /markdown/
