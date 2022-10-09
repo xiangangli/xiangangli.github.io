@@ -9,25 +9,19 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+教育背景 & 工作经验
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* 2010.9 - 2015.7, 北京大学智能系博士生
+* 2015.7 - 2017.11, 百度语音技术部语音识别技术负责人
+* 2017.11 - 2020.10, 滴滴首席算法工程师
+* 2020.10 至今, 贝壳高级研究员, 贝壳技术委员会算法通道负责人
 
-Work experience
+
+研究与技术方向
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 深度学习、语音识别与合成、自然语言处理
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+工作与研究经历
 ======
 * Skill 1
 * Skill 2
