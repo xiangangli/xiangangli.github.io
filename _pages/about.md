@@ -10,4 +10,4 @@ redirect_from:
 Xiangang Li's personal webpage
 ======
 
-I am a PhD graduated from Peking University in 2015, and interested in speech processing, natural language processing, machine learning technologies
+I got my PhD from Peking University in 2015, and interested in speech processing, natural language processing, machine learning technologies
