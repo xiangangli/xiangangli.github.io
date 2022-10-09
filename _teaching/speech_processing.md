@@ -1,7 +1,7 @@
 ---
 title: "语音信号处理"
 collection: teaching
-type: "Undergraduate course"
+type: "网络课程"
 date: 2019-01-01
 permalink: /teaching/speech_processing
 ---
