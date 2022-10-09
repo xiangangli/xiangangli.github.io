@@ -32,8 +32,8 @@ redirect_from:
 ======
 * 2022, 带领团队参加ICASSP 2022 ADD，获得两项任务评测第一
 * 2022, 带领团队参加SemEval 2022, 在task 4多分类子任务中评测第一
-* 2020, 带领团队参加DSTC9 (the 9th Dialog System Technology Challenge), 获得端到端多领域任务型对话系统评测第一
 * 2020, [第20届全国青年岗位能手](https://www.thepaper.cn/newsDetail_forward_8372344)
+* 2020, 带领团队参加DSTC9 (the 9th Dialog System Technology Challenge), 端到端多领域任务型对话任务评测第一
 * 2017, 百度最高奖团队成员
 * 2016, 《麻省理工科技评论》年度十大突破技术Deep Speech系统负责人之一
 * 2016, 百度潜力股
