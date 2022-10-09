@@ -41,12 +41,12 @@ redirect_from:
   * 带领团队参加语音和NLP方向国际比赛，多次获得前三的成绩：DSTC9 (the 9th Dialog System Technology Challenge)，ACL WMT2020国际机器翻译大赛
   * 2018年9月，负责实现网约车行程中的全程录音功能以及基于此的相关安全识别管控差旅
 * 2015.07 - 2017.11，百度语音技术部
-  * 2016年，负责百度语音技术部识别技术，以及DeepSpeech中文方面应用（Deep Speech 2 被《麻省理工科技评论》评为2016十大突破技术之一）
+  * 2016年，负责百度语音技术部识别技术，以及DeepSpeech中文方面应用
   * 负责识别声学建模，说话人识别，语音信号处理，麦克风阵列算法等研发工作（重点推进手机百度语音搜索、语音输入法、地图语音识别、度秘语音识别、呼叫中心语音识别、车载语音识别等产品中的识别性能提升）
   * 2017年，实现端对端说话人识别系统（DeepSpeaker系统），其将人脸识别中的一些深度学习算法引入到说话人识别中
 * 2020 - 2015, 北京大学言语听觉研究中心博士生
-  * 2013年，作为北京大学语音团队研究负责人，带领 团队参加Blizzard Challenge国际语音合成竞赛，在竞赛的各个指标中都领先其他团队。
-  * 2014年，对基于序列建模的语音识别展开了深入研究，得到了业界的认可。论文获得了ISCSLP 2014 Best Student Paper Award。
+  * 2013年，参加Blizzard Challenge国际语音合成竞赛，在竞赛的各个指标中取得了领先
+  * 基于序列建模的语音识别展开了深入研究，相关论文获得了ISCSLP 2014 Best Student Paper Award
 
 论文发表（截止目前Google scholar citation 4400+）[Google scholar](https://scholar.google.com/citations?user=80YNQwMAAAAJ&hl=zh-CN)
 ======
