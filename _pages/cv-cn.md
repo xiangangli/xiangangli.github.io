@@ -39,6 +39,7 @@ redirect_from:
 * 2016, 百度潜力股
 * 2014, ISCSLP 2014 最佳学生论文
 * 2013, 参加Blizzard Challenge国际语音合成竞赛，在竞赛的各个指标中取得了领先
+* 2010 - 2015, 北京大学校长奖学金（北京大学博士生最高荣誉）
 
 论文发表, 参见[Google scholar](https://scholar.google.com/citations?user=80YNQwMAAAAJ&hl=zh-CN)
 ======
