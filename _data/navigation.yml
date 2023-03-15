@@ -5,8 +5,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Teaching"
-    url: /teaching/
+#  - title: "Teaching"
+#    url: /teaching/
 
   - title: "CV-CN"
     url: /cv-cn/
