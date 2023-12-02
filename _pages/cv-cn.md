@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "李先刚"
+title: "李先刚 xiangangli.speech@hotmail.com"
 permalink: /cv-cn/
 author_profile: true
 redirect_from:
